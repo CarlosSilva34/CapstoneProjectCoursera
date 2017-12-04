@@ -1,4 +1,4 @@
-Coursera Capstone Project
+#Coursera Capstone Project
 
 This Shiny app was developed for the Capstone Project of the Johns Hopkins Coursera Data Science Specialization. This Capstone Project is designed in partnership with Swiftkey.
 
