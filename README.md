@@ -16,6 +16,6 @@ The information about n-gram backoff algorithm used to predict is shown in a tex
 
 Additional Information:
 
-The source codes for ui.R and server.R files are also available on the GitHub repo: https://github.com/CarlosSilva34/CapstoneProjectCoursera
+The Shiny Application is running at: https://carlossilva34.shinyapps.io/CapstoneCoursera
 
 Presentation Slide decks are available on the RPubs page: http://rpubs.com/CarlosSilva34/337462
